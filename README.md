@@ -51,3 +51,7 @@ To interact with the API, you can use tools like **Postman**, **cURL**, or a web
 ### Example of Getting User Subscribers
 ```bash
 GET http://0.0.0.0:8000/{username}
+```
+## Link to the workspace
+
+https://www.postman.com/daarrko/github-api-service/request/7uwu60o/close-issue?action=share&creator=39784122&ctx=documentation
